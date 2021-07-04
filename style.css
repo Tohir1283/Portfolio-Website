@@ -5,7 +5,9 @@
   width: 1500px;
   border-radius: 10px;
   border-bottom: 12.5px solid gray;
-  position: absolute;
+  position:fixed;
+  margin: 10px;
+  box-sizing: border-box;
 
 }
 
@@ -27,9 +29,18 @@ h2{
 }
 
 #ichigo{
-
+  float :left;
   height: 410px;
   width : 670px;
+
+}
+
+#body{
+
+    border: 1px solid black;
+    margin-top: 450px;
+    width:40%;    
+    
 
 }
 
