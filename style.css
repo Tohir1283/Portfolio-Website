@@ -1,0 +1,35 @@
+.nav{
+
+  background-color: azure;
+  border: 2px solid gray;
+  width: 1500px;
+  border-radius: 10px;
+  border-bottom: 12.5px solid gray;
+  position: absolute;
+
+}
+
+
+#bleach{
+
+  float: right;
+  height: 410px; width: 670px;
+
+}
+
+h2{
+
+  float: right;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+
+}
+
+#ichigo{
+
+  height: 410px;
+  width : 670px;
+
+}
+
